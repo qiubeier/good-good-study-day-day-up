@@ -1,3 +1,3 @@
-# festudy 学习笔记
+# festudy
 
 
